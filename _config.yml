@@ -1,7 +1,7 @@
 name: hometime
 favicon: null
-layout_spectrum: 0.0574772369582206
-typography_spectrum: 0.11665183189325035
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.3455592719838023
+    - '#525156'
+    - '#2a3a4a'
+    - '#b37d3f'
+    - '#508b8f'
+    - '#fdb772'
+  brandStrength: 1
   lightness: 0.277486597886309
-  saturation: 0.5081060291267931
-  rhythmicContrast: 0.6328382131177932
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
