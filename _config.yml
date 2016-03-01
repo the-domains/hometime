@@ -2,6 +2,7 @@ name: hometime
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0
+title: hometime.digital.creation
 cta:
   domain: null
   bucket: null
