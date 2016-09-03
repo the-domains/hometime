@@ -1,20 +1,4 @@
-name: hometime
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0
-title: hometime.digital.creation
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#525156'
@@ -26,4 +10,24 @@ color:
   lightness: 0.277486597886309
   saturation: 0.25
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: hometime
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: tower
+    id: 03e9e5c5-0508-43e3-a408-87e0c705ca82
+    type: content
+favicon: null
+title: hometime.digital.creation
 purpose: []
